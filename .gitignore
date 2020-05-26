@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Special files
+quickstart.py
+cashflowplaid-48ec6bbd29de.json
+cashflowplaidv2-5518bd4165c3.json
+config.py
